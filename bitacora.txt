@@ -1,7 +1,7 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Lobos Heras, Jesús):                                      %%
+%% Alumno (Apellidos, Nombre): Lobos Heras,Jesús                    %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
@@ -25,3 +25,11 @@
 
 20 stash apply
 
+
+
+
+
+
+
+Notas: 
+En el paso 22 hay un conflicto pues hay cambios en el remoto que no se encuentran en el repositorio local, solucionado con pull y arreglo de conflictos manual en el archivo
