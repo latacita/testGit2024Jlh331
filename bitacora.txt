@@ -11,8 +11,10 @@
 
 02 (editado documento)
 
-03 add + commit ( creo que este no debia ser documentado=
+03 add + commit ( creo que este no debia ser documentado)
 
 04 branch PrimeraRama
 checkout PrimeraRama
 
+06 branch SegundaRama
+checkout SegundaRama
