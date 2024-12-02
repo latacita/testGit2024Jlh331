@@ -18,3 +18,11 @@ checkout PrimeraRama
 
 06 branch SegundaRama
 checkout SegundaRama
+
+13 checkout SegundaRama
+
+14 Seria recursiva pues ambas tienen cambios guardados localmente en el mismo fichero que afectan a las mismas lineas
+15 La fusión en este momento de PrimeraRama en master seria por fast foward pues master no tienen ningun commit nuevo y PrimeraRama está adelantada respecto a él, simplemente master movería el puntero hacia delante, pues los cambios realizados anteriormente estan en un stash
+
+
+
