@@ -11,5 +11,8 @@
 
 02 (editado documento)
 
-03 add+ comit
+03 add + commit ( creo que este no debia ser documentado=
+
+04 branch PrimeraRama
+checkout PrimeraRama
 
