@@ -1,0 +1,5 @@
+Para satisfacer de pasos 22 a 24:
+
+Al intentar hacer push de master al remoto ha ocurrido un conflicto (tambien descrito en Notas), pues existian cambios en el repositorio remoto no reflejados en el repositorio local, para solucionarlo se ha hecho un pull de dichos cambios y solucionados los conflictos en el archivo de texto de manera manual, se ha completado el push de master.
+Para paso 23 simplemente checkout SegundaRama
+Paso 24 se ha creado un archivo PasosExtra  y se ha le ha hecho Stage (git add) para que sea trackeado

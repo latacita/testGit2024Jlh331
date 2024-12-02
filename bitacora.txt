@@ -25,6 +25,12 @@
 
 20 stash apply
 
+26 tag "PasosExtras"
+
+27 checkout master
+
+28 en sourcetree, checkout a PasosExtras y merge con master
+
 
 
 
