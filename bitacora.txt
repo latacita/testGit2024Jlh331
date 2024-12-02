@@ -13,3 +13,15 @@
 
 03 add+ comit
 
+08 push 
+
+09 checkout master
+
+17 checkout PrimeraRama
+
+18 merge SegundaRama (conflicto arreglado, descrito en Notas)
+
+19 checkout master
+
+20 stash apply
+
